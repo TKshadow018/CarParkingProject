@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Car Parking</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string-array name="location">
+        <item>Tejgaon</item>
+        <item>Badda</item>
+        <item>Gulishan</item>
+        <item>Motijhil</item>
+        <item>Kamalapur</item>
+        <item>Malibag</item>
+        <item>Mogbazar</item>
+        <item>Karwan Bazar</item>
+        <item>Agargaon</item>
+        <item>Saymoli</item>
+        <item>Mohakhali</item>
+        <item>Khilgaon</item>
+        <item>Nilkhet</item>
+        <item>Mirpur</item>
+        <item>Zigatola</item>
+        <item>Mohammadpur</item>
+        <item>Adabor</item>
+        <item>Farmgate</item>
+        <item>Uttara</item>
+        <item>Baridhara</item>
+
+    </string-array>
+</resources>
